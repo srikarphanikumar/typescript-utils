@@ -1,5 +1,5 @@
 {
-  "name": "@ts-toolkit/utils",
+  "name": "typescript-utilitys",
   "version": "1.0.0",
   "description": "Utility and helper functions for Typescript",
   "main": "index.ts",

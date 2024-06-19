@@ -1,5 +1,5 @@
 # Package Name
-@typescript/utils
+@ts/utils
 
 ## Description
 Utility and helper functions for TypeScript.
@@ -20,11 +20,11 @@ MIT
 You can install the package using npm or yarn:
 
 ```sh
-npm install @typescript/utils
+npm install @ts/utils
 ```
 or
 ```sh
-yarn add @typescript/utils
+yarn add @ts/utils
 ```
 
 

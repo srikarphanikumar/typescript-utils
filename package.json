@@ -1,5 +1,5 @@
 {
-  "name": "@typescript/utils",
+  "name": "@ts/utils",
   "version": "1.0.0",
   "description": "Utility and helper functions for Typescript",
   "main": "index.ts",

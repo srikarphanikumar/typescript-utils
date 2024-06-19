@@ -1,6 +1,6 @@
 {
   "name": "typescript-utilitys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility and helper functions for Typescript",
   "main": "dist/index.js",
   "scripts": {

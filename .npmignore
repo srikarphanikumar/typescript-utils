@@ -1,0 +1,23 @@
+# Ignore development and test files
+/src/
+/test/
+/docs/
+
+# Ignore configuration files
+.babelrc
+.eslintignore
+.eslintrc.json
+.prettierrc
+
+# Ignore build and cache files
+node_modules/
+dist/
+*.log
+
+# Ignore version control files
+.git/
+.gitignore
+
+# Ignore package manager files
+package-lock.json
+yarn.lock
